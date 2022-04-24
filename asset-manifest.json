@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TEXT-MANAGER-APP/static/css/main.e6c13ad2.css",
+    "main.js": "/TEXT-MANAGER-APP/static/js/main.8321f371.js",
+    "index.html": "/TEXT-MANAGER-APP/index.html",
+    "main.e6c13ad2.css.map": "/TEXT-MANAGER-APP/static/css/main.e6c13ad2.css.map",
+    "main.8321f371.js.map": "/TEXT-MANAGER-APP/static/js/main.8321f371.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8321f371.js"
+  ]
+}
